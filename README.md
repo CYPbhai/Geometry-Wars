@@ -100,6 +100,6 @@ Libraries/
 
 ## Notes
 
-This started as a follow-along project with Dave Churchill's game dev series on YouTube, then I kept adding things on top — audio, special weapon, camera shake, fullscreen, the debug panel. The core ECS design comes from his videos, the rest is mine.
+This started as a follow-along project with Dave Churchill's game dev series on YouTube, then I kept adding things on top - audio, special weapon, camera shake, fullscreen, the debug panel. The core ECS design comes from his videos, the rest is mine.
 
 Not trying to ship this anywhere, it's just something I built to get more comfortable with C++ and game architecture patterns.
