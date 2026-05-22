@@ -5,6 +5,11 @@ A Geometry Wars-inspired arcade shooter built in C++ with SFML 3.0.2.
 You fly around, shoot geometric enemies, and try to survive as long as possible. Enemies split into smaller pieces when killed. Pretty standard stuff for the genre, but it was a fun project to build from scratch.
 
 ---
+## Gameplay
+
+https://github.com/user-attachments/assets/aa32f983-63bf-41b0-bd09-28414a08445e
+
+---
 
 ## Features
 
