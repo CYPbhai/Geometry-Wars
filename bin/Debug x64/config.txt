@@ -1,0 +1,6 @@
+Window 1600 900 60 1
+Font fonts/MouldyCheeseRegular-WyMWG.ttf 24 255 255 255 255
+Player 32 32 0 255 0 255 0 0 5 8 8
+Enemy 32 32 255 255 255 2 3 8 60 60 3 7
+Bullet 10 10 255 255 255 255 255 255 2 8 60 20
+DebugMode 1

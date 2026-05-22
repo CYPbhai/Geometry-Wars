@@ -1,0 +1,7 @@
+WASD		: Move
+Left Click	: Shoot (Hold)
+Right Click	: Special Weapon
+P			: Pause/Resume
+M			: Toggle music
+F11			: Toggle Fullscreen
+Esc			: Quit Game
